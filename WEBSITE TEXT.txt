@@ -1,0 +1,116 @@
+WEBSITE TEXT
+
+The art of language is very beautiful, some arguably more beautiful than others.
+In English you would say Hello, Spanish would say Hola, Japanese would say Kon’nichiwa. As a developer I would like to say “<p>Hello Friend</p>” and welcome to my life and journey with code.
+The language of code is something I find very fascinating. As we can see throughout the world, the gravitation towards technology driven solutions is on a permanent rise. Code is the language of our future.
+From solving picture puzzles as a kid to building complex tech driven solutions to problems, I would say I’ve always been about problem-solving. 
+
+
+grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+grid-gap: 20px;
+
+
+
+
+this project was developed as a real world solution for ease of identification for governments. through this app, user government ID's can be stored and used at places required. Explore this project!
+
+
+LANGUAGES
+bash
+C
+C++
+HTML
+CSS
+JavaScript
+Python
+React
+MongoDB
+SQL
+Angular
+
+Application, Security and Accessibility
+
+
+
+ABOUT PAGE TEXT	
+
+At an early age I had a passion for automating tasks and creating tech driven solutions to real life problems.
+From creating bash scripts in notepad for copying and moving folder content on my desktop, to creating applicable and responsive web apps for the world to use. I pursued a year in a CS degree program at the University of Lethbridge where I picked up the concept of algorithms and applying these bodies of logic to understand how AI was modelled. I transferred to CyberSecurity at the Southern Albera Institute of Technology. Through applying the principles of Confidentiality, Authenticity and Integrity I was able to securely implement user applications. As I progressed in my development journey, I found a peculiar passion for Web App Development with a deep appreciation for the role it has played in building up the world we live in. Notable mentions include; Facebook which reinvented the social parameters which has become the day to day standard, YouTube which encapsulated and preserved media cultures into a technological form and Shopify which launched the retail and corporative space online giving the sector a unique opportunity at a vast consumer base. 
+
+
+<div>
+		<p>
+			At an early age I had a passion for automating tasks and creating tech driven solutions to real life problems.
+			From creating bash scripts in notepad for copying and moving folder content on my desktop, to creating applicable and responsive web apps for the world to use. I pursued a year in a CS degree program at the University of Lethbridge where I picked up the concept of algorithms and applying these bodies of logic to understand how AI was modelled. I transferred to CyberSecurity at the Southern Albera Institute of Technology. Through applying the principles of Confidentiality, Authenticity and Integrity I was able to securely implement user applications. As I progressed in my development journey, I found a peculiar passion for Web App Development with a deep appreciation for the role it has played in building up the world we live in today. Notable mentions include; Facebook which reinvented the social parameters which has become the standard, YouTube which encapsulated and preserved media cultures into a technological form and Shopify which launched the retail and corporative space online giving the sector a unique opportunity at a vast consumer base. 
+		</p>
+	</div>
+	<div>
+		<h3>Tech Stack</h3>
+		<div>
+			<ul>
+				<li>HTML</li>
+				<li>CSS</li>
+				<li>JavaScript</li>
+				<li>Python</li>
+				<li>C</li>
+				<li>C++</li>
+				<li>React</li>
+				<li>Angular</li>
+				<li>PostgreSQL</li>
+				<li>MongoDB</li>
+				<li>bash~script</li>
+			</ul>
+		</div>
+	</div>
+	<div>
+		<h1>Projects</h1>
+		<div class="projects icon-links">
+			<a href="projectpage.html">
+			<div class= "project-icon">
+				<img #id="icon1" src="icon3.png" width="50px" height="50px">
+				<div class="project-info">
+					<h4><strong>Coming Soon</strong></h4><hr>
+					<p>Project is currently being developed. I hope you're as excited as I am!</p>
+				</div>
+			</div>
+			</a>
+			<a href="projectpage.html">
+			<div class= "project-icon">
+				<img #id="icon2" src="icon3.png" width="50px" height="50px">
+				<div class="project-info">
+					<h4><strong>Coming Soon</strong></h4><hr>
+					<p>Project is currently being developed. I hope you're as excited as I am!</p>
+				</div>
+			</div>
+			</a>
+			<a href="projectpage.html">
+			<div class= "project-icon">
+				<img #id="icon3" src="icon3.png" width="50px" height="50px">
+				<div class="project-info">
+					<h4><strong>Coming Soon</strong></h4><hr>
+					<p>Project is currently being developed. I hope you're as excited as I am!</p>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+	<div>
+		<h3>Links</h3>
+		<div>
+			<ul>
+				<a href="RESUME2022.docx" download="Nennii-Cally-Ntete_RESUME"><img src="resumedownload.png" width= "50px" height="50px" alt="Resume"></a>
+				<a href="https://github.com/Nennii-CallyNtete" target="_blank"><img src="github.png" width= "50px" height="50px" alt="GitHub Profile"></a>
+			</ul>
+		</div>
+	</div>
+	<div>
+		<h3>Contact Me</h3>
+		<div>
+			<ul>
+				<a href="mailto:nenniicallyntete@gmail.com" target="_blank"><img src="email.png" width="50px" height="50px" alt="nenniicallyntete@gmail.com"></a>
+				<a href="tel:+14036198097"><img src="phone.png" width="50px" height="50px" alt="Phone"></a>
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
