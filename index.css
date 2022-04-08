@@ -110,6 +110,11 @@ hr{
     cursor: pointer;
 }
 
+#text{
+    position: relative;
+    left: 46vw;
+}
+
 .projects{
 	display: inline-flex;
     flex-flow: row wrap;

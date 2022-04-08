@@ -3,7 +3,7 @@ const projects = document.getElementById('button2');
 const bubble = document.getElementsByTagName('li');
 
 const scrollToStack = () => {
-  const stack = document.getElementsByClassName('skills');
+  const stack = document.getElementById('tech-stack');
   if (stack) {
     stack.scrollIntoView({ behavior: 'smooth' });
   }
@@ -18,4 +18,3 @@ const scrollToProjects = () => {
 
 explore.addEventListener('click', scrollToStack);
 projects.addEventListener('click', scrollToProjects);
-//bubble.addEventListener('mouseover', distort);
